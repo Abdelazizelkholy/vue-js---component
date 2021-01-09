@@ -1,0 +1,10 @@
+.statistics li {
+        list-style: none;
+        padding-bottom: 5;
+}
+.statistics {
+    padding-right: 0;
+}
+.list-group {
+    padding-right: 0;
+}
